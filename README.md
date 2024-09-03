@@ -6,5 +6,5 @@ A Perfect React Js Contact Form. Good use of Formik and React-Toastify 👌👌
 ![focus-and-active-state](https://github.com/user-attachments/assets/77c6194d-a2c3-4dfa-8abf-336ae8634f6d)
 
 ##Author
-- Juma Chaje - (Personal Portfolio)[https://jumanjigobez.github.io/personal_portfolio]
-- Instagram - (@Jumanjicasilas)[https://instagram.com/@Jumanji_Dev]
+- Juma Chaje - [Personal Portfolio](https://jumanjigobez.github.io/personal_portfolio)
+- Instagram - [@Jumanjicasilas](https://instagram.com/@Jumanji_Dev)
